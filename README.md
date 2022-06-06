@@ -5,6 +5,11 @@ Propuestas colaborativas de ideación en proyectos para crowdfunding: Migrimage 
 
 * Nombre del proyecto:
 
+
+* Logotipo: 
+
+![logotipo](https://github.com/mgea/migrimage-proposal/blob/main/img-nobody.png)
+
 * Descripcíon: 
 
 * Autor: 
