@@ -53,6 +53,6 @@ Propuestas colaborativas de ideación en proyectos para crowdsourcing/crowdfundi
 -----
 
 ## Recursos 
-
+ 
 * Recursos para desarrollo del proyecto https://github.com/mgea/migrimage-proposal/blob/main/recursos.md
 
