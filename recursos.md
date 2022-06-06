@@ -53,7 +53,9 @@ Ideación  para la propuesta de proyectos para crowdfunding, usando la estrategi
 * **Isoflat** Isometric & flat graphic resources  https://isoflat.com/
 * **StorySet**. Free customizable (animate) illustrations https://storyset.com/
 
+#### Recursos para Github 
 
+* Stackedit - un editor para escribir en MarkDown https://stackedit.io
 
 ### Ejemplos de repositorios Github 
 
