@@ -3,22 +3,78 @@ Propuestas colaborativas de ideación en proyectos para crowdfunding: Migrimage 
 
 
 
-### Resumen
+* Nombre del proyecto:
+
+* Descripcíon: 
+
+* Autor: 
+
+* Fecha
+
+* Licencia: 
+
+* URL: 
+
+-------
+
+## Mi proyecto: 
+
+
+
+
+
+
+## Mi historia 
+
+
+
+
+
+## Recompensas
+
+
+
+
+
+
+## Promoción
+
+
+
+
+
+-----
+
+### Recursos
 
 Ideación  para la propuesta de proyectos para crowdfunding, usando la estrategias de kickstarter
 
-* Recursos para creadores:  https://www.kickstarter.com/help/handbook?ref=section-creators-newsitem-el-manual-del-creador-de-kickstarter
+* Manual del creador:  https://www.kickstarter.com/help/handbook?ref=section-creators-newsitem-el-manual-del-creador-de-kickstarter
 
 * Revista de creativos: https://www.kickstarter.com/magazine?ref=section-creators-promo-kickstarter-magazine
 
 * Ayudas y consejos: https://thecreativeindependent.com/?ref=section-creators-promo-the-creative-independent
 
 
-
 ### Pasos
 
+* Cómo empezar: https://www.kickstarter.com/help/handbook/getting_started?ref=handbook_index 
 
-Idea de proyecto
 
+* Tu historia: https://www.kickstarter.com/help/handbook/your_story?ref=handbook_index 
+
+* Recompensas: https://www.kickstarter.com/help/handbook/rewards?ref=handbook_index 
+
+
+* Financiamiento: https://www.kickstarter.com/help/handbook/funding?ref=handbook_rewards
+
+* Promoción: https://www.kickstarter.com/help/handbook/promotion?ref=handbook_funding
+
+
+* Comunicación con los patrocinadores: https://www.kickstarter.com/help/handbook/updates?ref=handbook_promotion
+
+* Entrega: https://www.kickstarter.com/help/handbook/fulfillment?ref=handbook_backers
+
+* Lecturas recomendadas: https://www.kickstarter.com/help/handbook/further_reading?ref=handbook_fulfillment 
 
 
