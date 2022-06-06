@@ -56,6 +56,9 @@ Ideación  para la propuesta de proyectos para crowdfunding, usando la estrategi
 #### Recursos para Github 
 
 * Stackedit - un editor para escribir en MarkDown https://stackedit.io
+* Repositorios en github. https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories 
+
+
 
 ### Ejemplos de repositorios Github 
 
