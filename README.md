@@ -77,4 +77,11 @@ Ideación  para la propuesta de proyectos para crowdfunding, usando la estrategi
 
 * Lecturas recomendadas: https://www.kickstarter.com/help/handbook/further_reading?ref=handbook_fulfillment 
 
+----
+
+Ejemplos de repositorios Github 
+
+* Comicgen  (https://gramener.com/comicgen/) con repositorio https://github.com/gramener/comicgen
+* RevealJS https://revealjs.com 
+* 
 
