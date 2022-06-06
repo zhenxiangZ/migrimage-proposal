@@ -1,5 +1,5 @@
 # migrimage-proposal
-Propuestas colaborativas de ideación en proyectos para crowdfunding: Migrimage summer School, 2022
+Propuestas colaborativas de ideación en proyectos para crowdsourcing/crowdfunding. Migrimage summer School, 2022
 
 
 
@@ -46,6 +46,8 @@ Propuestas colaborativas de ideación en proyectos para crowdfunding: Migrimage 
 
 
 
+
+## Valoraciónes y Conclusiones sobre esta experiencia 
 
 
 -----
