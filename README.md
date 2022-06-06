@@ -45,6 +45,7 @@ Propuestas colaborativas de ideación en proyectos para crowdfunding: Migrimage 
 
 -----
 
-## Recursos https://revealjs.com 
-* Recursos para desarrollo del proyecto https://mobirise.com
+## Recursos 
+
+* Recursos para desarrollo del proyecto https://github.com/mgea/migrimage-proposal/blob/main/recursos.md
 
