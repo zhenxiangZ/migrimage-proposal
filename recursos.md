@@ -34,14 +34,28 @@ Ideación  para la propuesta de proyectos para crowdfunding, usando la estrategi
 
 ----
 
-### Promoción / Difusión
+### Recursos de Promoción / Difusión / logotipo
 
 
 * Creación de página web (one single webpage) con Mobirise: https://mobirise.com
+* **logo maker** Logo y asistente: https://www.tailorbrands.com/es/logo-maker
+* **LogoMakr** Logo maker con asistente https://logomakr.com/
 
 
 
-Ejemplos de repositorios Github 
+
+
+### Imágenes 
+
+* **Undraw** https://undraw.co/illustrations
+* **Icons8**. Free illustration   https://icons8.com/vector-creator/
+* **unplash**. Free photos https://unsplash.com 
+* **Isoflat** Isometric & flat graphic resources  https://isoflat.com/
+* **StorySet**. Free customizable (animate) illustrations https://storyset.com/
+
+
+
+### Ejemplos de repositorios Github 
 
 * Comicgen  (https://gramener.com/comicgen/) con repositorio https://github.com/gramener/comicgen
 * RevealJS https://revealjs.com 
