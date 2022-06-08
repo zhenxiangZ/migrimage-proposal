@@ -22,10 +22,9 @@ Propuestas colaborativas de ideación en proyectos para crowdsourcing/crowdfundi
 
 -------
 
-## Mi proyecto: 
+## Mi proyecto: Refugiados climaticos
 
-
-
+Hacer un cuestionario sobre los refugiados climaticos para que la gente puedan hacerlo y aprender sobre este tema.
 
 
 
