@@ -4,13 +4,13 @@ Propuestas colaborativas de ideación en proyectos para crowdsourcing/crowdfundi
 
 
 * Nombre del proyecto:
-
+Un cantante bajo,  ueño de chino resturante en Sevilla
 
 * Logotipo: 
 
 ![logotipo](https://github.com/mgea/migrimage-proposal/blob/main/img-nobody.png)
 
-* Descripción: 
+* Descripción: La historia 
 
 * Autor: 
 
